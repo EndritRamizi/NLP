@@ -13,5 +13,5 @@ The dataset consists of hotel reviews from TripAdvisor stored in
 Clone the repository:
 
 ```bash
-git clone https://github.com/EndritRamizi/Endrit.git
+git clone https://github.com/EndritRamizi/NLP.git
 cd Endrit
